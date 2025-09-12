@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37a08eff-3337-4f25-8a8a-ab50ec19bf09" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/FM2aX_simplecontrol.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Airflow/EM_Airflow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Compressor/Ausgangsroutinen_und_Daten/KompressorKenfeldCheck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Compressor/Ausgangsroutinen_und_Daten/Kompressor_Polynome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Compressor/Ausgangsroutinen_und_Daten/Make_json_Compressor_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Compressor/Ausgangsroutinen_und_Daten/TurboCor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Compressor/Datenfiles/VZN175 30 coefficients - 85 73 197 1EupdateApr2024FormatW.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Compressor/Datenfiles/VZN220_VI_Calculated_Poly_Jun24.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Compressor/EM_Compressor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Compressor/json_data_cmp/VZN175.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Compressor/json_data_cmp/VZN220.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Dynamics/EM_Dynamics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Expansion_valve/EM_Expansion_valve.ST" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Expansion_valve/EM_Expansion_valve.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Expansion_valve/EM_Expansion_valve.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Expansion_valve/EM_Expansion_valve.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Expansion_valve/EM_Expansion_valve1_backuptodelete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Expansion_valve/EM_Expansion_valve_PDext_testdrv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Expansion_valve/EM_Expansion_valve_test_driver_gem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_common_tk/EM_common_tk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_common_tk/EM_common_tk_PDctrl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_heating_cycle/EM_heating_cycle.ST" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_heating_cycle/EM_heating_cycle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_heating_cycle/EM_heating_cycle_PDctrl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_internal_tk/EM_internal_tk_PDctrl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControllerModel/HP/EM_HP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControllerModel/options_manager8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControllerModel/options_manager9.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="30p73UIy41Er1XMfIwTypnQZrKt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.EM_Compressor.executor": "Run",
+    "Python.EM_Dynamics.executor": "Run",
+    "Python.EM_Expansion_valve.executor": "Debug",
+    "Python.EM_Expansion_valve1.executor": "Run",
+    "Python.EM_Expansion_valve_PDext_testdrv.executor": "Run",
+    "Python.EM_Expansion_valve_test_driver_gem.executor": "Run",
+    "Python.EM_HP.executor": "Run",
+    "Python.EM_common_tk.executor": "Run",
+    "Python.EM_common_tk_PDctrl.executor": "Run",
+    "Python.EM_heating_cycle.executor": "Run",
+    "Python.Kompressor_Polynome.executor": "Run",
+    "Python.Make_json_Compressor_file (1).executor": "Run",
+    "Python.Make_json_Compressor_file.executor": "Run",
+    "Python.TEst_obj.executor": "Debug",
+    "Python.Volumen_Air.executor": "Run",
+    "Python.get_model_json.executor": "Run",
+    "Python.get_model_json_gem.executor": "Run",
+    "Python.get_model_json_gpt.executor": "Run",
+    "Python.option_manager.executor": "Run",
+    "Python.options_manager1.executor": "Run",
+    "Python.options_manager10.executor": "Run",
+    "Python.options_manager3.executor": "Run",
+    "Python.options_manager5.executor": "Run",
+    "Python.options_manager6.executor": "Run",
+    "Python.options_manager7.executor": "Run",
+    "Python.options_manager8.executor": "Run",
+    "Python.options_manager9.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/epwac/PycharmProjects/FM2aX_simplecontrol/ControllerModel/EM_internal_tk"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\epwac\PycharmProjects\FM2aX_simplecontrol\ControllerModel\EM_internal_tk" />
+      <recent name="C:\Users\epwac\PycharmProjects\FM2aX_simplecontrol\ControllerModel\EM_Compressor\json_data_cmp" />
+      <recent name="C:\Users\epwac\PycharmProjects\FM2aX_simplecontrol\ControllerModel\EM_Compressor\Ausgangsroutinen_und_Daten" />
+      <recent name="C:\Users\epwac\PycharmProjects\FM2aX_simplecontrol\ControllerModel\EM_Compressor" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\epwac\PycharmProjects\FM2aX_simplecontrol\ControllerModel\EM_Airflow" />
+      <recent name="C:\Users\epwac\PycharmProjects\FM2aX_simplecontrol\ControllerModel\EM_Compressor" />
+      <recent name="C:\Users\epwac\PycharmProjects\FM2aX_simplecontrol\ControllerModel" />
+      <recent name="C:\Users\epwac\PycharmProjects\FM2aX_simplecontrol\ControllerModel\EM_Compressor\Ausgangsroutinen_und_Daten\Datenfiles" />
+      <recent name="C:\Users\epwac\PycharmProjects\FM2aX_simplecontrol\ControllerModel\EM_Compressor\Ausgangsroutinen_und_Daten" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.EM_HP">
+    <configuration name="EM_Compressor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FM2aX_simplecontrol" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ControllerModel/EM_Compressor" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ControllerModel/EM_Compressor/EM_Compressor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EM_Expansion_valve_PDext_testdrv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FM2aX_simplecontrol" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ControllerModel/EM_Expansion_valve" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ControllerModel/EM_Expansion_valve/EM_Expansion_valve_PDext_testdrv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EM_HP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FM2aX_simplecontrol" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ControllerModel/HP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ControllerModel/HP/EM_HP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TEst_obj" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FM2aX_simplecontrol" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ControllerModel" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ControllerModel/TEst_obj.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_model_json_gpt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FM2aX_simplecontrol" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ControllerModel" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ControllerModel/get_model_json_gpt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.EM_HP" />
+        <item itemvalue="Python.EM_Compressor" />
+        <item itemvalue="Python.EM_Expansion_valve_PDext_testdrv" />
+        <item itemvalue="Python.TEst_obj" />
+        <item itemvalue="Python.get_model_json_gpt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37a08eff-3337-4f25-8a8a-ab50ec19bf09" name="Changes" comment="" />
+      <created>1754312461446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754312461446</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ControllerModel/options_manager8.py</url>
+          <line>445</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ControllerModel/EM_Compressor/EM_Compressor.py</url>
+          <line>96</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ControllerModel/EM_heating_cycle/EM_heating_cycle.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ControllerModel/EM_Expansion_valve/EM_Expansion_valve.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ControllerModel/EM_Compressor/Ausgangsroutinen_und_Daten/Make_json_Compressor_file.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ControllerModel/EM_Compressor/Ausgangsroutinen_und_Daten/Make_json_Compressor_file.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ControllerModel/EM_Expansion_valve/EM_Expansion_valve_PDext_testdrv.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ControllerModel/HP/EM_HP.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ControllerModel/TEst_obj.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ControllerModel/TEst_obj.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ControllerModel/HP/EM_HP.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ControllerModel/HP/EM_HP.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
