@@ -4,41 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37a08eff-3337-4f25-8a8a-ab50ec19bf09" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/FM2aX_simplecontrol.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Airflow/EM_Airflow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Compressor/Ausgangsroutinen_und_Daten/KompressorKenfeldCheck.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Compressor/Ausgangsroutinen_und_Daten/Kompressor_Polynome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Compressor/Ausgangsroutinen_und_Daten/Make_json_Compressor_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Compressor/Ausgangsroutinen_und_Daten/TurboCor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Compressor/Datenfiles/VZN175 30 coefficients - 85 73 197 1EupdateApr2024FormatW.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Compressor/Datenfiles/VZN220_VI_Calculated_Poly_Jun24.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Compressor/EM_Compressor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Compressor/json_data_cmp/VZN175.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Compressor/json_data_cmp/VZN220.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Dynamics/EM_Dynamics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Expansion_valve/EM_Expansion_valve.ST" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Expansion_valve/EM_Expansion_valve.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Expansion_valve/EM_Expansion_valve.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Expansion_valve/EM_Expansion_valve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Expansion_valve/EM_Expansion_valve1_backuptodelete.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Expansion_valve/EM_Expansion_valve_PDext_testdrv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_Expansion_valve/EM_Expansion_valve_test_driver_gem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_common_tk/EM_common_tk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_common_tk/EM_common_tk_PDctrl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_heating_cycle/EM_heating_cycle.ST" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_heating_cycle/EM_heating_cycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_heating_cycle/EM_heating_cycle_PDctrl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControllerModel/EM_internal_tk/EM_internal_tk_PDctrl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControllerModel/HP/EM_HP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControllerModel/options_manager8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControllerModel/options_manager9.py" afterDir="false" />
+    <list default="true" id="37a08eff-3337-4f25-8a8a-ab50ec19bf09" name="Changes" comment="Version before starting modular_unit&#10;Partly tested">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -251,7 +218,20 @@
       <option name="presentableId" value="Default" />
       <updated>1754312461446</updated>
     </task>
+    <task id="LOCAL-00001" summary="Version before starting modular_unit&#10;Partly tested">
+      <option name="closed" value="true" />
+      <created>1757684423830</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1757684423830</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Version before starting modular_unit&#10;Partly tested" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version before starting modular_unit&#10;Partly tested" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
